@@ -28,3 +28,7 @@ body{
 #footer{
     background: #df2176;
 }
+
+.centrar-img{
+    vertical-align: middle;
+}
